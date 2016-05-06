@@ -8,6 +8,7 @@ public class ConnectImpl extends UnicastRemoteObject implements Connect {
 
     private static final long serialVersionUID = -7854287696962149563L;
     private List<String> lista = new ArrayList<String>();
+    private int j; // apagar depois
 
     protected ConnectImpl() throws RemoteException {
         super();
