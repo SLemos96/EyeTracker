@@ -5,6 +5,7 @@ import java.rmi.RemoteException;
 public class Connector {
     private RMIClient client;
     private Connect connect;
+    private int i; // apagar depois
      
     private void connect() {
         try {
