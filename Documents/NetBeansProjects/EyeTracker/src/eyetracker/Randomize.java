@@ -10,5 +10,6 @@ package eyetracker;
  * @author samue
  */
 public class Randomize {
+    int contato;
     
 }

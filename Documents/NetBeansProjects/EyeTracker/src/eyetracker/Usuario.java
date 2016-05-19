@@ -10,7 +10,8 @@ package eyetracker;
  * @author samue
  */
 public class Usuario {
-    String nomeUsuario;
-    boolean responsavel;// = false;
+    String nome;
+    int idade;
+    int tempoDeContato;
     
 }
